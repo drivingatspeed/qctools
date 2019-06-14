@@ -72,3 +72,5 @@ Please read our contributing guidelines in [this dedicated document](https://git
 QCTools deliverable is licensed under a GPLv3 License.
 QCTools GUI part and FFmpeg statistics filter are licensed under the 3-Clause BSD license.
 This software uses libraries from the FFmpeg project under the GPLv3, Qt and Qwt libraries under the LGPLv2.1, OpenJPEG library under the 2-Clause BSD license. See our [License page](http://htmlpreview.github.io/?https://github.com/bavc/qctools/blob/master/License.html) for more details.
+
+THis is a test
